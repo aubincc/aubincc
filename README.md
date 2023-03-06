@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+<p align="center">
+  <img alt="multitasking_mole" src="github_aubincc.png" />
+</p>
+
 <!--
 **aubincc/aubincc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
